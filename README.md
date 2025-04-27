@@ -6,3 +6,5 @@ En esta actividad capture imagenes de tiemporeal usando la camara de la laptop, 
 - [Jupyter Notebook](./A3_2_588359.ipynb)
 
 
+
+
